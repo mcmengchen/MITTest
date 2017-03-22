@@ -18,8 +18,6 @@
     });
     
     
-    
-    
 }
 
 + (UIImage *)mit_imageNamed:(NSString *)name{
